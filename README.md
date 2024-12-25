@@ -1,5 +1,10 @@
 # URL Shortener
 
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=ffffff)](https://golang.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=ffffff)](https://www.sqlite.org/)
+[![GORM](https://img.shields.io/badge/-GORM-374151?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSI1MDAiIHZpZXdCb3g9IjAgMCAxMDAwIDUwMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAyNSBIMTAwMFYyNUgwVjI1Wk0wIDQ3NSBIMTAwMFY0NzVIMFY0NzVaIiBmaWxsPSIjMzc0MTUxIi8+PHBhdGggZD0iTTUwMCAwQzI3OS43NTggMCAxMCAyNzkuNzU4IDEwIDUwMEMxMCA3MjAuMjQyIDI3OS43NTggMTAwMCA1MDAgMTAwMUM3MjAuMjQyIDEwMDAgMTAwMCA3MjAuMjQyIDEwMDAgNTAwQzEwMDAgMjc5Ljc1OCA3MjAuMjQyIDEwIDUwMCAwWk01MDAgODU0LjM1NEMzMDEuNjk5IDg1NC4zNTQgMTQ1LjY0NiA2OTguMzAxIDE0NS42NDYgNTAwQzE0NS42NDYgMzAxLjcwMiAzMDEuNzAzIDE0NS42NDYgNTAwIDE0NS42NDZDNzg4LjM1NCAxNDUuNjQ2IDk1NC4zNTQgMzAxLjY5OSA5NTQuMzU0IDUwMUM5NTQuMzU0IDY5OC4zMDEgNzg4LjMwMSA4NTQuMzU0IDUwMCA4NTQuMzU0WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://gorm.io/)
+[![Gorilla Mux](https://img.shields.io/badge/-Gorilla%20Mux-74D269?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSI1MDAiIHZpZXdCb3g9IjAgMCAxMDAwIDUwMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAyNSA0MDAgMjUgNDAwIDI1SDBWMjVaTTAgNDc1IDQwMCA0NzUgNDAwIDQ3NUgwVjQ3NVpNNTI4IDI1SDYwMFY1MDBINTQyVjI1WiIgZmlsbD0iIzQ4QkQ2QyIvPjxwYXRoIGQ9Ik02MDAgMEgzMDBDMTQwIDAgMCAxNDAgMCAzMDBWMjAwSDEwMEwxMDAgMzAwSDBWMzAwQzAgNDQwIDE0MCA1ODAgMzAwIDYwMEgyMDAgNDgwSDMwMFM0MjAwIDUyMDAgNTIwMCA0MzAwTDYwMCA0MjAwVjI4MDAgTDAgMjQwMFYzNzAwTDMwMCAzODAwVjI2MDBMMzYwMCAyNTgwbDAgMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://www.gorillatoolkit.org/)
+
 URL Shortener — это простой сервис для сокращения длинных URL и перенаправления по коротким ссылкам. Проект написан на Go с использованием GORM и Gorilla Mux.
 
 ---
