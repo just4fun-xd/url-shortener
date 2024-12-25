@@ -1,0 +1,7 @@
+CREATE TABLE urls (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    short_url TEXT NOT NULL UNIQUE,
+    original_url TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    visit_count INTEGER DEFAULT 0
+);
